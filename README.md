@@ -1,3 +1,5 @@
+This is not an officially supported Google product
+
 # Google Cloud Setup
 
 [![Open this project in Google Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/cloud-quickstart/GoogleCloudDevelopment&page=editor&tutorial=README.md)
